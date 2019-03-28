@@ -5,8 +5,6 @@
       <change beforePath="$PROJECT_DIR$/app/core/admin.py" beforeDir="false" afterPath="$PROJECT_DIR$/app/core/admin.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/app/core/models.py" beforeDir="false" afterPath="$PROJECT_DIR$/app/core/models.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/app/core/tests/test_models.py" beforeDir="false" afterPath="$PROJECT_DIR$/app/core/tests/test_models.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/recipe/serializers.py" beforeDir="false" afterPath="$PROJECT_DIR$/app/recipe/serializers.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/recipe/urls.py" beforeDir="false" afterPath="$PROJECT_DIR$/app/recipe/urls.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/app/recipe/views.py" beforeDir="false" afterPath="$PROJECT_DIR$/app/recipe/views.py" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -37,7 +35,7 @@
           <entry key="Dockerfile" value="2" />
           <entry key="flake8" value="1" />
           <entry key="gitignore" value="1" />
-          <entry key="py" value="60" />
+          <entry key="py" value="63" />
           <entry key="serializers" value="1" />
           <entry key="txt" value="7" />
           <entry key="yml" value="8" />
@@ -47,14 +45,14 @@
         <counts>
           <entry key="Dockerfile" value="2" />
           <entry key="PLAIN_TEXT" value="9" />
-          <entry key="Python" value="61" />
+          <entry key="Python" value="64" />
           <entry key="YAML" value="8" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
           <entry key="Dockerfile" value="3" />
-          <entry key="py" value="7226" />
+          <entry key="py" value="7372" />
           <entry key="serializers" value="15" />
           <entry key="txt" value="2" />
           <entry key="yml" value="306" />
@@ -64,7 +62,7 @@
         <counts>
           <entry key="Dockerfile" value="3" />
           <entry key="PLAIN_TEXT" value="2" />
-          <entry key="Python" value="7241" />
+          <entry key="Python" value="7387" />
           <entry key="YAML" value="306" />
         </counts>
       </usages-collector>
@@ -96,11 +94,11 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/app/recipe/views.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="591">
-              <caret line="42" column="47" selection-start-line="42" selection-start-column="47" selection-end-line="42" selection-end-column="47" />
+            <state relative-caret-position="636">
+              <caret line="77" column="57" selection-start-line="77" selection-start-column="57" selection-end-line="77" selection-end-column="57" />
               <folding>
                 <element signature="e#0#43#0" expanded="true" />
               </folding>
@@ -109,12 +107,48 @@
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/app/core/tests/test_models.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="456">
+              <caret line="76" column="51" selection-start-line="76" selection-start-column="51" selection-end-line="76" selection-end-column="51" />
+              <folding>
+                <element signature="e#0#32#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/app/recipe/urls.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="120">
+              <caret line="8" column="55" selection-start-line="8" selection-start-column="55" selection-end-line="8" selection-end-column="55" />
+              <folding>
+                <element signature="e#0#37#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/app/core/models.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="381">
-              <caret line="54" column="43" lean-forward="true" selection-start-line="54" selection-start-column="43" selection-end-line="54" selection-end-column="43" />
+            <state relative-caret-position="81">
+              <caret line="54" column="19" selection-start-line="54" selection-start-column="19" selection-end-line="54" selection-end-column="19" />
               <folding>
                 <element signature="e#0#28#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/app/core/admin.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="75">
+              <caret line="5" column="49" selection-start-line="5" selection-start-column="49" selection-end-line="5" selection-end-column="49" />
+              <folding>
+                <element signature="e#0#32#0" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -176,13 +210,13 @@
         <option value="$PROJECT_DIR$/app/recipe/serializers" />
         <option value="$PROJECT_DIR$/app/app/urls.py" />
         <option value="$PROJECT_DIR$/app/recipe/tests/test_tags_api.py" />
-        <option value="$PROJECT_DIR$/app/core/models.py" />
-        <option value="$PROJECT_DIR$/app/core/admin.py" />
-        <option value="$PROJECT_DIR$/app/core/tests/test_models.py" />
         <option value="$PROJECT_DIR$/app/recipe/serializers.py" />
         <option value="$PROJECT_DIR$/app/recipe/urls.py" />
         <option value="$PROJECT_DIR$/app/recipe/tests/test_ingredients_api.py" />
         <option value="$PROJECT_DIR$/app/recipe/views.py" />
+        <option value="$PROJECT_DIR$/app/core/tests/test_models.py" />
+        <option value="$PROJECT_DIR$/app/core/models.py" />
+        <option value="$PROJECT_DIR$/app/core/admin.py" />
       </list>
     </option>
   </component>
@@ -447,52 +481,12 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/app/core/admin.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="435">
-          <caret line="29" column="30" selection-start-line="29" selection-start-column="30" selection-end-line="29" selection-end-column="30" />
-          <folding>
-            <element signature="e#0#32#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/app/recipe/serializers.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="285">
           <caret line="19" column="10" selection-start-line="19" selection-start-column="10" selection-end-line="19" selection-end-column="10" />
           <folding>
             <element signature="e#0#38#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/recipe/urls.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="120">
-          <caret line="8" column="55" selection-start-line="8" selection-start-column="55" selection-end-line="8" selection-end-column="55" />
-          <folding>
-            <element signature="e#0#37#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/core/tests/test_models.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="456">
-          <caret line="65" column="58" selection-start-line="65" selection-start-column="58" selection-end-line="65" selection-end-column="58" />
-          <folding>
-            <element signature="e#0#32#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/core/models.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="381">
-          <caret line="54" column="43" lean-forward="true" selection-start-line="54" selection-start-column="43" selection-end-line="54" selection-end-column="43" />
-          <folding>
-            <element signature="e#0#28#0" expanded="true" />
           </folding>
         </state>
       </provider>
@@ -517,12 +511,52 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/app/recipe/urls.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="120">
+          <caret line="8" column="55" selection-start-line="8" selection-start-column="55" selection-end-line="8" selection-end-column="55" />
+          <folding>
+            <element signature="e#0#37#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/app/recipe/views.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="591">
-          <caret line="42" column="47" selection-start-line="42" selection-start-column="47" selection-end-line="42" selection-end-column="47" />
+        <state relative-caret-position="636">
+          <caret line="77" column="57" selection-start-line="77" selection-start-column="57" selection-end-line="77" selection-end-column="57" />
           <folding>
             <element signature="e#0#43#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/core/tests/test_models.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="456">
+          <caret line="76" column="51" selection-start-line="76" selection-start-column="51" selection-end-line="76" selection-end-column="51" />
+          <folding>
+            <element signature="e#0#32#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/core/models.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="81">
+          <caret line="54" column="19" selection-start-line="54" selection-start-column="19" selection-end-line="54" selection-end-column="19" />
+          <folding>
+            <element signature="e#0#28#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/core/admin.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="75">
+          <caret line="5" column="49" selection-start-line="5" selection-start-column="49" selection-end-line="5" selection-end-column="49" />
+          <folding>
+            <element signature="e#0#32#0" expanded="true" />
           </folding>
         </state>
       </provider>
